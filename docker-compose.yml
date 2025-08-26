@@ -1,0 +1,17 @@
+services:
+  planning-poker:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: planning-poker
+    restart: always
+#    ports:
+#      - "8000:8000"
+    networks:
+      - nginx
+    volumes:
+      - ./data/data:/data
+
+networks:
+  nginx:
+    external: true

@@ -35,6 +35,7 @@
     "FIBONACCI": "Fibonacci",
     "MODIFIED_FIBONACCI": "Modified Fibonacci",
     "POWERS": "Powers of 2",
+    "MODIFIED_POWERS": "Modified Powers of 2",
     "TRUST_VOTE": "Trust Vote",
     "T_SHIRTS": "T-Shirt Sizes"
   },

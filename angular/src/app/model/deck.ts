@@ -59,6 +59,19 @@ export const decks: Deck[] = [
     ]
   },
   {
+    name: 'MODIFIED_POWERS',
+    textValues: false,
+    values: [
+      { value: 4, display: 4 },
+      { value: 8, display: 8 },
+      { value: 16, display: 16 },
+      { value: 24, display: 24 },
+      { value: 32, display: 32 },
+      { value: 48, display: 48 },
+      { value: 64, display: 64 },
+    ]
+  },
+  {
     name: 'TRUST_VOTE',
     textValues: false,
     values: [
