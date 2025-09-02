@@ -65,9 +65,12 @@ export const decks: Deck[] = [
       { value: 4, display: 4 },
       { value: 8, display: 8 },
       { value: 16, display: 16 },
+      { value: 20, display: 20 },
       { value: 24, display: 24 },
       { value: 32, display: 32 },
+      { value: 40, display: 40 },
       { value: 48, display: 48 },
+      { value: 56, display: 56 },
       { value: 64, display: 64 },
     ]
   },
